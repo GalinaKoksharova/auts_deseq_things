@@ -1,4 +1,4 @@
-this is code and input files to analyze if deseq will find the change to raw expression of one gene significant and consider changed gene a deg
+this is code and input files to analyze if deseq will find the change to raw expression of one gene significant and consider changed gene a deg.
 it uses pydeseq2 (https://github.com/owkin/PyDESeq2/tree/main) for easier coding, the result is consistent with deseq2 R package (with slight value variation, tested on this input data)
 
 input files include:
