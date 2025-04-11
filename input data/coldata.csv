@@ -1,0 +1,13 @@
+sample,condition
+1-25_R1,control
+1-25_R2,control
+2-3_R1,disease
+2-3_R2,disease
+151-4_R1,control
+151-4_R2,control
+181-1,disease
+181-2,disease
+27110-1,control
+27110-2,control
+d9987w-1,disease
+d9987w-2,disease
